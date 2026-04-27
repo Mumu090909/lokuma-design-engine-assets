@@ -1,0 +1,72 @@
+LOKUMA DESIGN ENGINE — BACKUP IMAGE LIBRARY
+LICENSE NOTICE
+
+This repository contains a curation of stock photographs. Two distinct
+layers of rights apply. Read both before redistributing or reusing any
+part of this repository.
+
+================================================================
+LAYER 1 — THE IMAGES THEMSELVES
+================================================================
+
+The image files in this repository are NOT authored by, owned by, or
+licensed by Lokuma. Each image belongs to its original creator and is
+governed by the license of the public stock library it was sourced from.
+
+  Files named  pixabay_*.jpg
+    are licensed under the Pixabay Content License.
+    Summary:  https://pixabay.com/service/license-summary/
+    Free for commercial and non-commercial use; attribution not
+    required; you may not sell unaltered copies or imply endorsement
+    by the original contributor.
+
+  Files named  unsplash_*.jpg  (or filenames matching Unsplash photo
+    IDs such as AFBFw7apV1o.jpg)
+    are licensed under the Unsplash License.
+    Full terms:  https://unsplash.com/license
+    Free for commercial and non-commercial use; attribution
+    appreciated but not required; you may not compile photos to
+    replicate a competing or similar service.
+
+If you redistribute or reuse any individual image, your rights and
+obligations come from the source library's license. Lokuma claims no
+rights to the images and grants no rights you do not already have under
+those licenses.
+
+================================================================
+LAYER 2 — THE CURATION
+================================================================
+
+The selection of which images to include, the 20-category taxonomy
+(`abstract/`, `architecture/`, `cafe/`, `fashion/`, ... ), the directory
+structure used to map engine prompts to image candidates, and any
+metadata or organizing artifacts in this repository (this LICENSE file,
+the README, naming conventions, structural choices) are:
+
+    Copyright © Lokuma. All rights reserved.
+
+The curation is published here so the Lokuma Design Engine
+(https://github.com/Mumu090909/lokuma-design-engine) has a deterministic
+fallback image dataset. It is NOT licensed for:
+
+  - Redistribution as a "stock image pack" or curated dataset.
+  - Use as the fallback dataset of a different image generator,
+    website builder, design tool, or any competing product.
+  - Any commercial reuse of the curation, taxonomy, or structure.
+  - Republication under a different name with the curation intact.
+
+Mirroring this repository for the sole purpose of running an unmodified
+Lokuma Design Engine is permitted.
+
+For any other use of the curation, contact Lokuma for written permission.
+
+================================================================
+NO WARRANTY
+================================================================
+
+THIS COLLECTION IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND,
+EXPRESS OR IMPLIED, INCLUDING WITHOUT LIMITATION ANY WARRANTY OF
+MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE, OR NONINFRINGEMENT.
+LOKUMA DOES NOT WARRANT THE LICENSING STATUS OF ANY INDIVIDUAL IMAGE
+BEYOND ITS BEST-EFFORT CATEGORIZATION BY SOURCE FILENAME PREFIX. IF YOU
+INTEND TO USE AN IMAGE COMMERCIALLY, VERIFY ITS LICENSE AT THE SOURCE.
