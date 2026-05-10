@@ -69,3 +69,58 @@ To set up a fresh engine checkout:
 # Inside your lokuma-design-engine clone:
 git clone https://github.com/Mumu090909/lokuma-design-engine-assets.git assets/backup_images
 ```
+
+## index.json — semantic metadata (May 2026)
+
+`index.json` carries per-image annotations so the resolver can rank
+candidates inside a category by prompt-keyword overlap (instead of
+hash-picking blindly). Schema:
+
+```jsonc
+{
+  "<category>": [
+    {
+      "filename": "FQLuqfS9K1I.jpg",
+      "caption":  "A bar counter with syrup bottles, an espresso machine, and hanging glasses under warm artificial lighting.",
+      "tags":     ["bar","cafe","syrup-bottles","espresso-machine","wood-ceiling","stone-wall","warm-light","cozy","interior"],
+      "palette":  ["#6b4a34","#b89c7c","#2d2d2d"],
+      "aesthetic":"warm rustic interior"
+    },
+    ...
+  ]
+}
+```
+
+The resolver (`tools/image_resolver.py`):
+
+- **Pre-flights** the matched category for the highest tag-overlap
+  score against the prompt's keyword set.
+- **Strong match (≥4)** → backup is used **first**, skipping AI
+  generation and Unsplash entirely. Saves an LLM call AND avoids
+  external-URL audit warnings.
+- **Moderate match (≥2)** → AI gen runs first (quality lift); if it
+  fails, backup is preferred over Unsplash.
+- **Weak match (<2)** → original cascade order
+  (AI → Unsplash → backup → fallbacks).
+
+### Adding new images
+
+1. Drop image files under the appropriate `<category>/` folder.
+2. Add the filename to `index.json`'s plain-string array (or run the
+   populator if it auto-indexes).
+3. Run the annotator to enrich the new entries:
+
+   ```bash
+   .venv/bin/python scripts/annotate_backup_images.py
+   ```
+
+   Idempotent — only annotates missing/plain-string entries; pass
+   `--force` to re-annotate everything. Cost: ~$0.001/image via
+   Gemini 2.5 Flash Vision.
+
+### Schema is backward-compatible
+
+Plain-string entries (legacy) and dict entries (enriched) coexist in
+the same array. The resolver scores plain strings as 0 and falls
+through to its hash-pick path — no regression if annotation is
+partial or skipped.
