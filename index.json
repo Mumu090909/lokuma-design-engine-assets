@@ -8212,7 +8212,8 @@
         "#e0e0e0",
         "#9e1a1a"
       ],
-      "aesthetic": "minimalist conceptual"
+      "aesthetic": "minimalist conceptual",
+      "subcat": "editorial"
     },
     {
       "filename": "pixabay_1283786.jpg",
@@ -8234,7 +8235,8 @@
         "#888888",
         "#cccccc"
       ],
-      "aesthetic": "documentary candid"
+      "aesthetic": "documentary candid",
+      "subcat": "documentary"
     },
     {
       "filename": "pixabay_1721060.jpg",
@@ -8256,7 +8258,8 @@
         "#c4a791",
         "#5c3d2e"
       ],
-      "aesthetic": "dramatic textured portrait"
+      "aesthetic": "dramatic textured portrait",
+      "subcat": "editorial"
     },
     {
       "filename": "pixabay_1869556.jpg",
@@ -8278,7 +8281,8 @@
         "#4a4a4a",
         "#b0b0b0"
       ],
-      "aesthetic": "dramatic chiaroscuro expressive"
+      "aesthetic": "dramatic chiaroscuro expressive",
+      "subcat": "editorial"
     },
     {
       "filename": "pixabay_2386034.jpg",
@@ -8300,7 +8304,8 @@
         "#e0e0e0",
         "#333333"
       ],
-      "aesthetic": "bright natural light"
+      "aesthetic": "bright natural light",
+      "subcat": "documentary"
     },
     {
       "filename": "pixabay_2562646.jpg",
@@ -8322,7 +8327,8 @@
         "#707070",
         "#a37c52"
       ],
-      "aesthetic": "warm cinematic"
+      "aesthetic": "warm cinematic",
+      "subcat": "documentary"
     },
     {
       "filename": "pixabay_2649318.jpg",
@@ -8344,7 +8350,8 @@
         "#aed6ee",
         "#4a2e24"
       ],
-      "aesthetic": "clean studio portrait"
+      "aesthetic": "clean studio portrait",
+      "subcat": "documentary"
     },
     {
       "filename": "pixabay_2868705.jpg",
@@ -8366,7 +8373,8 @@
         "#333333",
         "#C25A3A"
       ],
-      "aesthetic": "warm candid portrait"
+      "aesthetic": "warm candid portrait",
+      "subcat": "documentary"
     },
     {
       "filename": "pixabay_3535435.jpg",
@@ -8388,7 +8396,8 @@
         "#d4a574",
         "#4a8c8c"
       ],
-      "aesthetic": "dark atmospheric"
+      "aesthetic": "dark atmospheric",
+      "subcat": "editorial"
     },
     {
       "filename": "pixabay_4529801.jpg",
@@ -8409,7 +8418,8 @@
         "#6b6e6f",
         "#3a7e8c"
       ],
-      "aesthetic": "bright candid portrait"
+      "aesthetic": "bright candid portrait",
+      "subcat": "documentary"
     },
     {
       "filename": "pixabay_4566110.jpg",
@@ -8431,7 +8441,8 @@
         "#333d42",
         "#f0e8d0"
       ],
-      "aesthetic": "eerie surreal"
+      "aesthetic": "eerie surreal",
+      "subcat": "documentary"
     },
     {
       "filename": "pixabay_4751991.jpg",
@@ -8452,7 +8463,8 @@
         "#e0d8d0",
         "#e0c28c"
       ],
-      "aesthetic": "clean commercial"
+      "aesthetic": "clean commercial",
+      "subcat": "editorial"
     },
     {
       "filename": "pixabay_555653.jpg",
@@ -8474,7 +8486,8 @@
         "#e0d9c7",
         "#3d2f25"
       ],
-      "aesthetic": "warm cinematic"
+      "aesthetic": "warm cinematic",
+      "subcat": "editorial"
     },
     {
       "filename": "pixabay_7726802.jpg",
@@ -8496,7 +8509,8 @@
         "#2c2c2c",
         "#8c6a52"
       ],
-      "aesthetic": "dramatic low-key"
+      "aesthetic": "dramatic low-key",
+      "subcat": "editorial"
     },
     {
       "filename": "pixabay_9489779.jpg",
@@ -8518,7 +8532,8 @@
         "#1a1a1a",
         "#00bfff"
       ],
-      "aesthetic": "clean commercial"
+      "aesthetic": "clean commercial",
+      "subcat": "editorial"
     },
     {
       "filename": "x45xE1P6Fe4.jpg",
@@ -8540,7 +8555,8 @@
         "#f0f0f0",
         "#c29d84"
       ],
-      "aesthetic": "clean professional"
+      "aesthetic": "clean professional",
+      "subcat": "executive"
     },
     {
       "filename": "pixabay_10267183.jpg",
@@ -8562,7 +8578,8 @@
         "#e0e0e0",
         "#5292b3"
       ],
-      "aesthetic": "dramatic studio portrait"
+      "aesthetic": "dramatic studio portrait",
+      "subcat": "executive"
     },
     {
       "filename": "pixabay_10209504.jpg",
@@ -8584,7 +8601,8 @@
         "#808080",
         "#303030"
       ],
-      "aesthetic": "editorial minimal"
+      "aesthetic": "editorial minimal",
+      "subcat": "casual"
     },
     {
       "filename": "pixabay_10203709.jpg",
@@ -8606,7 +8624,8 @@
         "#d4a574",
         "#3366cc"
       ],
-      "aesthetic": "bold editorial"
+      "aesthetic": "bold editorial",
+      "subcat": "editorial"
     },
     {
       "filename": "pixabay_10193054.jpg",
@@ -8628,7 +8647,8 @@
         "#e0803a",
         "#f0a774"
       ],
-      "aesthetic": "warm editorial"
+      "aesthetic": "warm editorial",
+      "subcat": "casual"
     },
     {
       "filename": "pixabay_10267184.jpg",
@@ -8650,7 +8670,8 @@
         "#3a2b29",
         "#c29b8c"
       ],
-      "aesthetic": "clean professional"
+      "aesthetic": "clean professional",
+      "subcat": "documentary"
     },
     {
       "filename": "pixabay_10168594.jpg",
@@ -8672,7 +8693,8 @@
         "#f0d8c0",
         "#6b8e6b"
       ],
-      "aesthetic": "warm natural light"
+      "aesthetic": "warm natural light",
+      "subcat": "documentary"
     },
     {
       "filename": "pixabay_1354381.jpg",
@@ -8693,7 +8715,8 @@
         "#f0f0f0",
         "#4a3a30"
       ],
-      "aesthetic": "candid natural"
+      "aesthetic": "candid natural",
+      "subcat": "documentary"
     },
     {
       "filename": "pixabay_2147968.jpg",
@@ -8715,7 +8738,8 @@
         "#008080",
         "#e6b300"
       ],
-      "aesthetic": "bright professional"
+      "aesthetic": "bright professional",
+      "subcat": "executive"
     },
     {
       "filename": "pixabay_216988.jpg",
@@ -8737,7 +8761,8 @@
         "#C04000",
         "#8B0000"
       ],
-      "aesthetic": "clean professional"
+      "aesthetic": "clean professional",
+      "subcat": "casual"
     },
     {
       "filename": "pixabay_2442565.jpg",
@@ -8759,7 +8784,8 @@
         "#666666",
         "#aaaaaa"
       ],
-      "aesthetic": "classic bw portrait"
+      "aesthetic": "classic bw portrait",
+      "subcat": "casual"
     },
     {
       "filename": "pixabay_3435963.jpg",
@@ -8781,7 +8807,8 @@
         "#f0f0f0",
         "#c8d0d0"
       ],
-      "aesthetic": "clean commercial"
+      "aesthetic": "clean commercial",
+      "subcat": "executive"
     },
     {
       "filename": "pixabay_316571.jpg",
@@ -8803,7 +8830,8 @@
         "#40a0e0",
         "#e0b080"
       ],
-      "aesthetic": "bright clinical minimal"
+      "aesthetic": "bright clinical minimal",
+      "subcat": "casual"
     },
     {
       "filename": "pixabay_4568761.jpg",
@@ -8825,7 +8853,8 @@
         "#5e3e2e",
         "#e0e0e0"
       ],
-      "aesthetic": "dramatic low-key portrait"
+      "aesthetic": "dramatic low-key portrait",
+      "subcat": "executive"
     },
     {
       "filename": "pixabay_4568762.jpg",
@@ -8846,7 +8875,8 @@
         "#404040",
         "#f0f0f0"
       ],
-      "aesthetic": "Sleek studio portrait"
+      "aesthetic": "Sleek studio portrait",
+      "subcat": "executive"
     },
     {
       "filename": "pixabay_4696539.jpg",
@@ -8868,7 +8898,8 @@
         "#d4a574",
         "#2c3e4a"
       ],
-      "aesthetic": "dramatic editorial"
+      "aesthetic": "dramatic editorial",
+      "subcat": "editorial"
     },
     {
       "filename": "pixabay_537136.jpg",
@@ -8890,7 +8921,8 @@
         "#4a4a4a",
         "#e0c2a8"
       ],
-      "aesthetic": "clean studio portrait"
+      "aesthetic": "clean studio portrait",
+      "subcat": "executive"
     },
     {
       "filename": "pixabay_5505598.jpg",
@@ -8912,7 +8944,8 @@
         "#8a5a4a",
         "#e6b04a"
       ],
-      "aesthetic": "warm editorial"
+      "aesthetic": "warm editorial",
+      "subcat": "casual"
     },
     {
       "filename": "pixabay_6084994.jpg",
@@ -8934,7 +8967,8 @@
         "#1a1a1a",
         "#e0b294"
       ],
-      "aesthetic": "clean studio portrait"
+      "aesthetic": "clean studio portrait",
+      "subcat": "executive"
     },
     {
       "filename": "pixabay_5515150.jpg",
@@ -8955,7 +8989,8 @@
         "#707070",
         "#202020"
       ],
-      "aesthetic": "high contrast bw"
+      "aesthetic": "high contrast bw",
+      "subcat": "editorial"
     },
     {
       "filename": "pixabay_6144774.jpg",
@@ -8977,7 +9012,8 @@
         "#f0d8c7",
         "#d4a574"
       ],
-      "aesthetic": "soft ethereal beauty"
+      "aesthetic": "soft ethereal beauty",
+      "subcat": "documentary"
     },
     {
       "filename": "pixabay_6276484.jpg",
@@ -8999,7 +9035,8 @@
         "#808080",
         "#c0c0c0"
       ],
-      "aesthetic": "documentary portrait"
+      "aesthetic": "documentary portrait",
+      "subcat": "documentary"
     },
     {
       "filename": "pixabay_3054343.jpg",
@@ -9021,7 +9058,8 @@
         "#666666",
         "#222222"
       ],
-      "aesthetic": "editorial minimal"
+      "aesthetic": "editorial minimal",
+      "subcat": "editorial"
     },
     {
       "filename": "pixabay_6538205.jpg",
@@ -9043,7 +9081,8 @@
         "#8caad4",
         "#d47a7a"
       ],
-      "aesthetic": "Warm natural portrait"
+      "aesthetic": "Warm natural portrait",
+      "subcat": "documentary"
     },
     {
       "filename": "pixabay_6553477.jpg",
@@ -9064,7 +9103,8 @@
         "#8b5a3e",
         "#1a1a1a"
       ],
-      "aesthetic": "clean studio portrait"
+      "aesthetic": "clean studio portrait",
+      "subcat": "casual"
     },
     {
       "filename": "pixabay_7261806.jpg",
@@ -9086,7 +9126,8 @@
         "#3a7a8d",
         "#a87d60"
       ],
-      "aesthetic": "bright professional"
+      "aesthetic": "bright professional",
+      "subcat": "executive"
     },
     {
       "filename": "pixabay_7338402.jpg",
@@ -9108,7 +9149,8 @@
         "#d4a574",
         "#303d4a"
       ],
-      "aesthetic": "professional studio portrait"
+      "aesthetic": "professional studio portrait",
+      "subcat": "executive"
     },
     {
       "filename": "pixabay_73835.jpg",
@@ -9130,7 +9172,8 @@
         "#f0f0f0",
         "#4a4a4a"
       ],
-      "aesthetic": "graphic historical"
+      "aesthetic": "graphic historical",
+      "subcat": "executive"
     },
     {
       "filename": "pixabay_6592565.jpg",
@@ -9152,7 +9195,8 @@
         "#a36e4b",
         "#c7c7c7"
       ],
-      "aesthetic": "dramatic intimate portrait"
+      "aesthetic": "dramatic intimate portrait",
+      "subcat": "editorial"
     },
     {
       "filename": "pixabay_67698.jpg",
@@ -9174,7 +9218,8 @@
         "#1a1a1a",
         "#e0e0e0"
       ],
-      "aesthetic": "old master portrait"
+      "aesthetic": "old master portrait",
+      "subcat": "executive"
     },
     {
       "filename": "pixabay_7622649.jpg",
@@ -9196,7 +9241,8 @@
         "#000000",
         "#6a88a8"
       ],
-      "aesthetic": "clean commercial"
+      "aesthetic": "clean commercial",
+      "subcat": "casual"
     },
     {
       "filename": "pixabay_67793.jpg",
@@ -9218,7 +9264,8 @@
         "#707070",
         "#e0e0e0"
       ],
-      "aesthetic": "high contrast monochrome"
+      "aesthetic": "high contrast monochrome",
+      "subcat": "editorial"
     },
     {
       "filename": "pixabay_7607426.jpg",
@@ -9240,7 +9287,8 @@
         "#f7e500",
         "#e88d6c"
       ],
-      "aesthetic": "colorful pop-art"
+      "aesthetic": "colorful pop-art",
+      "subcat": "editorial"
     },
     {
       "filename": "pixabay_7622655.jpg",
@@ -9262,7 +9310,8 @@
         "#1a1a1a",
         "#6a88a8"
       ],
-      "aesthetic": "clean studio"
+      "aesthetic": "clean studio",
+      "subcat": "editorial"
     },
     {
       "filename": "pixabay_7622684.jpg",
@@ -9284,7 +9333,8 @@
         "#1a1a1a",
         "#b0b0b0"
       ],
-      "aesthetic": "clean studio portrait"
+      "aesthetic": "clean studio portrait",
+      "subcat": "casual"
     },
     {
       "filename": "pixabay_7622685.jpg",
@@ -9306,7 +9356,8 @@
         "#1a1a1a",
         "#f7d000"
       ],
-      "aesthetic": "bright studio portrait"
+      "aesthetic": "bright studio portrait",
+      "subcat": "casual"
     },
     {
       "filename": "pixabay_8831979.jpg",
@@ -9328,7 +9379,8 @@
         "#f0f0f0",
         "#2c3e50"
       ],
-      "aesthetic": "professional studio"
+      "aesthetic": "professional studio",
+      "subcat": "executive"
     },
     {
       "filename": "pixabay_7895953.jpg",
@@ -9350,7 +9402,8 @@
         "#b8d0c8",
         "#d4b89f"
       ],
-      "aesthetic": "soft studio portrait"
+      "aesthetic": "soft studio portrait",
+      "subcat": "documentary"
     },
     {
       "filename": "pixabay_876187.jpg",
@@ -9371,7 +9424,8 @@
         "#1E3A4D",
         "#8B4513"
       ],
-      "aesthetic": "clean studio portrait"
+      "aesthetic": "clean studio portrait",
+      "subcat": "editorial"
     },
     {
       "filename": "pixabay_8831983.jpg",
@@ -9393,7 +9447,8 @@
         "#212a36",
         "#d0a173"
       ],
-      "aesthetic": "polished studio portrait"
+      "aesthetic": "polished studio portrait",
+      "subcat": "executive"
     },
     {
       "filename": "pixabay_8078578.jpg",
@@ -9415,7 +9470,8 @@
         "#777777",
         "#cccccc"
       ],
-      "aesthetic": "documentary grit"
+      "aesthetic": "documentary grit",
+      "subcat": "editorial"
     },
     {
       "filename": "pixabay_9176859.jpg",
@@ -9437,7 +9493,8 @@
         "#5e4f44",
         "#b8b8b8"
       ],
-      "aesthetic": "street style editorial"
+      "aesthetic": "street style editorial",
+      "subcat": "executive"
     },
     {
       "filename": "pixabay_9615942.jpg",
@@ -9459,7 +9516,8 @@
         "#ffffff",
         "#2d5e65"
       ],
-      "aesthetic": "clean studio portrait"
+      "aesthetic": "clean studio portrait",
+      "subcat": "executive"
     },
     {
       "filename": "pixabay_9473442.jpg",
@@ -9481,7 +9539,8 @@
         "#5c5e42",
         "#a0a0a0"
       ],
-      "aesthetic": "dramatic fashion portrait"
+      "aesthetic": "dramatic fashion portrait",
+      "subcat": "editorial"
     },
     {
       "filename": "pixabay_9532283.jpg",
@@ -9503,7 +9562,8 @@
         "#444444",
         "#e0e0e0"
       ],
-      "aesthetic": "editorial minimal"
+      "aesthetic": "editorial minimal",
+      "subcat": "executive"
     },
     {
       "filename": "unsplash_04TIEUuDzfc.jpg",
@@ -9525,7 +9585,8 @@
         "#0000b3",
         "#0a0a0a"
       ],
-      "aesthetic": "dramatic neon portrait"
+      "aesthetic": "dramatic neon portrait",
+      "subcat": "editorial"
     },
     {
       "filename": "pixabay_9687749.jpg",
@@ -9547,7 +9608,8 @@
         "#b38e70",
         "#1a1a1a"
       ],
-      "aesthetic": "Dramatic fashion studio"
+      "aesthetic": "Dramatic fashion studio",
+      "subcat": "editorial"
     },
     {
       "filename": "unsplash_3NSCIipl-EQ.jpg",
@@ -9569,7 +9631,8 @@
         "#2a3a41",
         "#a7d0e0"
       ],
-      "aesthetic": "soft hazy portrait"
+      "aesthetic": "soft hazy portrait",
+      "subcat": "documentary"
     },
     {
       "filename": "unsplash_GTP4YTdcuvc.jpg",
@@ -9590,7 +9653,8 @@
         "#c28b6a",
         "#e0e0e0"
       ],
-      "aesthetic": "moody dramatic"
+      "aesthetic": "moody dramatic",
+      "subcat": "editorial"
     },
     {
       "filename": "unsplash_9OAEOtxW4-U.jpg",
@@ -9611,7 +9675,8 @@
         "#40e0d0",
         "#e066ff"
       ],
-      "aesthetic": "Artistic gel lighting"
+      "aesthetic": "Artistic gel lighting",
+      "subcat": "editorial"
     },
     {
       "filename": "unsplash_KnmggIcig5s.jpg",
@@ -9633,7 +9698,8 @@
         "#c2c2b8",
         "#d4a574"
       ],
-      "aesthetic": "warm professional"
+      "aesthetic": "warm professional",
+      "subcat": "documentary"
     },
     {
       "filename": "unsplash_M8ghMGXjp84.jpg",
@@ -9655,7 +9721,8 @@
         "#1a1a1a",
         "#a6734d"
       ],
-      "aesthetic": "dramatic portraiture"
+      "aesthetic": "dramatic portraiture",
+      "subcat": "editorial"
     },
     {
       "filename": "unsplash_OuxJHYeUYpk.jpg",
@@ -9676,7 +9743,8 @@
         "#2d2e30",
         "#6a7c7e"
       ],
-      "aesthetic": "soft natural portrait"
+      "aesthetic": "soft natural portrait",
+      "subcat": "documentary"
     },
     {
       "filename": "unsplash_Rx_bi2S95bU.jpg",
@@ -9698,7 +9766,8 @@
         "#202020",
         "#4a2e1c"
       ],
-      "aesthetic": "commercial clean"
+      "aesthetic": "commercial clean",
+      "subcat": "executive"
     },
     {
       "filename": "unsplash_RpknSJgiq3s.jpg",
@@ -9720,7 +9789,8 @@
         "#1a1a1a",
         "#5c3a2e"
       ],
-      "aesthetic": "warm cinematic"
+      "aesthetic": "warm cinematic",
+      "subcat": "editorial"
     },
     {
       "filename": "unsplash_RIt88XBR3G0.jpg",
@@ -9742,7 +9812,8 @@
         "#e0b99f",
         "#a87860"
       ],
-      "aesthetic": "clean corporate portrait"
+      "aesthetic": "clean corporate portrait",
+      "subcat": "executive"
     },
     {
       "filename": "unsplash_SXjgEafWN6A.jpg",
@@ -9763,7 +9834,8 @@
         "#c2a68c",
         "#1a0a0a"
       ],
-      "aesthetic": "warm cinematic"
+      "aesthetic": "warm cinematic",
+      "subcat": "documentary"
     },
     {
       "filename": "unsplash_7JGjoSVfIDM.jpg",
@@ -9785,7 +9857,8 @@
         "#f5f5f5",
         "#1a1a1a"
       ],
-      "aesthetic": "bright candid portrait"
+      "aesthetic": "bright candid portrait",
+      "subcat": "casual"
     },
     {
       "filename": "unsplash_V2vuNvH6OmE.jpg",
@@ -9807,7 +9880,8 @@
         "#33383a",
         "#4d3a31"
       ],
-      "aesthetic": "dramatic low-key"
+      "aesthetic": "dramatic low-key",
+      "subcat": "editorial"
     },
     {
       "filename": "unsplash_TlK5gcvvxjU.jpg",
@@ -9829,7 +9903,8 @@
         "#2c1e22",
         "#e0e8f0"
       ],
-      "aesthetic": "soft natural portrait"
+      "aesthetic": "soft natural portrait",
+      "subcat": "documentary"
     },
     {
       "filename": "unsplash_Xv9OvU1ZDnE.jpg",
@@ -9851,7 +9926,8 @@
         "#201818",
         "#d0c0a0"
       ],
-      "aesthetic": "warm ethereal"
+      "aesthetic": "warm ethereal",
+      "subcat": "documentary"
     },
     {
       "filename": "unsplash_TUaxU0WZAd0.jpg",
@@ -9872,7 +9948,8 @@
         "#f0f0f0",
         "#e0b88c"
       ],
-      "aesthetic": "moody cinematic"
+      "aesthetic": "moody cinematic",
+      "subcat": "editorial"
     },
     {
       "filename": "unsplash_bYvCRHzsLrk.jpg",
@@ -9894,7 +9971,8 @@
         "#80a0c0",
         "#e0e0e0"
       ],
-      "aesthetic": "moody studio portrait"
+      "aesthetic": "moody studio portrait",
+      "subcat": "editorial"
     },
     {
       "filename": "unsplash_bwSXaz7hXbA.jpg",
@@ -9916,7 +9994,8 @@
         "#8B1A2B",
         "#E6E4E0"
       ],
-      "aesthetic": "clean editorial"
+      "aesthetic": "clean editorial",
+      "subcat": "executive"
     },
     {
       "filename": "unsplash_Y5liF4j92ww.jpg",
@@ -9938,7 +10017,8 @@
         "#828a96",
         "#302e26"
       ],
-      "aesthetic": "warm cinematic"
+      "aesthetic": "warm cinematic",
+      "subcat": "editorial"
     },
     {
       "filename": "unsplash_eLOwnWvK9Fk.jpg",
@@ -9960,7 +10040,8 @@
         "#f0f0f0",
         "#2a2a2a"
       ],
-      "aesthetic": "warm studio portrait"
+      "aesthetic": "warm studio portrait",
+      "subcat": "executive"
     },
     {
       "filename": "unsplash_hmNpz2t2ZLs.jpg",
@@ -9981,7 +10062,8 @@
         "#3a3f33",
         "#d4d4d4"
       ],
-      "aesthetic": "contemporary lifestyle"
+      "aesthetic": "contemporary lifestyle",
+      "subcat": "documentary"
     },
     {
       "filename": "unsplash_g5JuOjALX5M.jpg",
@@ -10003,7 +10085,8 @@
         "#D4A574",
         "#1A1A1A"
       ],
-      "aesthetic": "warm professional portrait"
+      "aesthetic": "warm professional portrait",
+      "subcat": "casual"
     },
     {
       "filename": "unsplash_obNz3sJy4ew.jpg",
@@ -10025,7 +10108,8 @@
         "#34a870",
         "#0d0d0d"
       ],
-      "aesthetic": "Editorial minimal"
+      "aesthetic": "Editorial minimal",
+      "subcat": "editorial"
     },
     {
       "filename": "unsplash_pzOUnvx9c1E.jpg",
@@ -10047,7 +10131,8 @@
         "#f0f0f0",
         "#80304a"
       ],
-      "aesthetic": "Modern professional"
+      "aesthetic": "Modern professional",
+      "subcat": "executive"
     },
     {
       "filename": "unsplash_qF9e4EHGCVQ.jpg",
@@ -10069,7 +10154,8 @@
         "#a87a5a",
         "#e8e4d7"
       ],
-      "aesthetic": "warm natural portrait"
+      "aesthetic": "warm natural portrait",
+      "subcat": "documentary"
     },
     {
       "filename": "unsplash_swsY_HA0DCw.jpg",
@@ -10091,7 +10177,8 @@
         "#e0c9b9",
         "#6e3a2a"
       ],
-      "aesthetic": "soft natural portrait"
+      "aesthetic": "soft natural portrait",
+      "subcat": "documentary"
     },
     {
       "filename": "unsplash_kqRfYVxNANI.jpg",
@@ -10113,7 +10200,8 @@
         "#F8F8F8",
         "#E08C7E"
       ],
-      "aesthetic": "documentary candid, educational realism"
+      "aesthetic": "documentary candid, educational realism",
+      "subcat": "executive"
     }
   ],
   "real-estate": [
