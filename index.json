@@ -5970,6 +5970,50 @@
         "#E0DED7"
       ],
       "aesthetic": "bright minimalist"
+    },
+    {
+      "filename": "pixabay_1336664.jpg",
+      "caption": "A gloved hand pipettes dark red liquid into a test tube in a bright laboratory setting.",
+      "tags": [
+        "laboratory",
+        "science",
+        "research",
+        "test-tube",
+        "pipette",
+        "blood-sample",
+        "medical",
+        "healthcare",
+        "precision",
+        "bright"
+      ],
+      "palette": [
+        "#F8F8F8",
+        "#800000",
+        "#C0D0D8"
+      ],
+      "aesthetic": "clinical clean"
+    },
+    {
+      "filename": "pixabay_220005.jpg",
+      "caption": "A scientist in blue gloves uses a pipette to add blue liquid to a petri dish in a bright laboratory setting.",
+      "tags": [
+        "scientist",
+        "laboratory",
+        "research",
+        "experiment",
+        "petri-dish",
+        "pipette",
+        "blue-gloves",
+        "medical",
+        "precision",
+        "bright"
+      ],
+      "palette": [
+        "#fcfcfc",
+        "#0099ff",
+        "#3300ff"
+      ],
+      "aesthetic": "clinical bright"
     }
   ],
   "hero-landscape": [
@@ -7688,6 +7732,27 @@
         "#4a3e36"
       ],
       "aesthetic": "dynamic nightscape"
+    },
+    {
+      "filename": "pixabay_1864627.jpg",
+      "caption": "An antique metal lantern with a bright glowing light hangs on a dark wooden wall.",
+      "tags": [
+        "lantern",
+        "vintage",
+        "wood",
+        "glowing",
+        "light",
+        "rustic",
+        "dark",
+        "moody",
+        "warm-light"
+      ],
+      "palette": [
+        "#3a2a1e",
+        "#7a5a3a",
+        "#fcf8e3"
+      ],
+      "aesthetic": "warm vintage glow"
     }
   ],
   "nature": [
@@ -8103,6 +8168,28 @@
         "#8c9ca0"
       ],
       "aesthetic": "muted natural landscape"
+    },
+    {
+      "filename": "pixabay_4494596.jpg",
+      "caption": "A dahlia flower, a bud, and pampas grass are artfully arranged on a pink journal.",
+      "tags": [
+        "dahlia",
+        "pampas-grass",
+        "pink-journal",
+        "still-life",
+        "soft-light",
+        "delicate",
+        "pastel",
+        "floral",
+        "cozy",
+        "feminine"
+      ],
+      "palette": [
+        "#d4a5a5",
+        "#e0dcd4",
+        "#7a8c7a"
+      ],
+      "aesthetic": "pastel soft"
     }
   ],
   "portrait": [
@@ -8170,27 +8257,6 @@
         "#5c3d2e"
       ],
       "aesthetic": "dramatic textured portrait"
-    },
-    {
-      "filename": "pixabay_1864627.jpg",
-      "caption": "An antique metal lantern with a bright glowing light hangs on a dark wooden wall.",
-      "tags": [
-        "lantern",
-        "vintage",
-        "wood",
-        "glowing",
-        "light",
-        "rustic",
-        "dark",
-        "moody",
-        "warm-light"
-      ],
-      "palette": [
-        "#3a2a1e",
-        "#7a5a3a",
-        "#fcf8e3"
-      ],
-      "aesthetic": "warm vintage glow"
     },
     {
       "filename": "pixabay_1869556.jpg",
@@ -8521,28 +8587,6 @@
       "aesthetic": "editorial minimal"
     },
     {
-      "filename": "pixabay_10173249.jpg",
-      "caption": "A dark horse wearing a decorative beaded halter and red patterned fabric against a black background.",
-      "tags": [
-        "horse",
-        "black-horse",
-        "halter",
-        "red-fabric",
-        "studio-shot",
-        "animal-portrait",
-        "elegant",
-        "majestic",
-        "dark-background",
-        "ornate"
-      ],
-      "palette": [
-        "#000000",
-        "#211a18",
-        "#c71e2d"
-      ],
-      "aesthetic": "dramatic studio portrait"
-    },
-    {
       "filename": "pixabay_10203709.jpg",
       "caption": "A person with red braided hair and bold makeup sits in an industrial setting, wearing gold jewelry.",
       "tags": [
@@ -8629,28 +8673,6 @@
         "#6b8e6b"
       ],
       "aesthetic": "warm natural light"
-    },
-    {
-      "filename": "pixabay_1336664.jpg",
-      "caption": "A gloved hand pipettes dark red liquid into a test tube in a bright laboratory setting.",
-      "tags": [
-        "laboratory",
-        "science",
-        "research",
-        "test-tube",
-        "pipette",
-        "blood-sample",
-        "medical",
-        "healthcare",
-        "precision",
-        "bright"
-      ],
-      "palette": [
-        "#F8F8F8",
-        "#800000",
-        "#C0D0D8"
-      ],
-      "aesthetic": "clinical clean"
     },
     {
       "filename": "pixabay_1354381.jpg",
@@ -8740,28 +8762,6 @@
       "aesthetic": "classic bw portrait"
     },
     {
-      "filename": "pixabay_220005.jpg",
-      "caption": "A scientist in blue gloves uses a pipette to add blue liquid to a petri dish in a bright laboratory setting.",
-      "tags": [
-        "scientist",
-        "laboratory",
-        "research",
-        "experiment",
-        "petri-dish",
-        "pipette",
-        "blue-gloves",
-        "medical",
-        "precision",
-        "bright"
-      ],
-      "palette": [
-        "#fcfcfc",
-        "#0099ff",
-        "#3300ff"
-      ],
-      "aesthetic": "clinical bright"
-    },
-    {
       "filename": "pixabay_3435963.jpg",
       "caption": "A stylish man in a black suit and sunglasses adjusts his jacket outdoors in bright daylight.",
       "tags": [
@@ -8782,28 +8782,6 @@
         "#c8d0d0"
       ],
       "aesthetic": "clean commercial"
-    },
-    {
-      "filename": "pixabay_4494596.jpg",
-      "caption": "A dahlia flower, a bud, and pampas grass are artfully arranged on a pink journal.",
-      "tags": [
-        "dahlia",
-        "pampas-grass",
-        "pink-journal",
-        "still-life",
-        "soft-light",
-        "delicate",
-        "pastel",
-        "floral",
-        "cozy",
-        "feminine"
-      ],
-      "palette": [
-        "#d4a5a5",
-        "#e0dcd4",
-        "#7a8c7a"
-      ],
-      "aesthetic": "pastel soft"
     },
     {
       "filename": "pixabay_316571.jpg",
@@ -13939,6 +13917,28 @@
         "#E0D8D0"
       ],
       "aesthetic": "soft natural portrait"
+    },
+    {
+      "filename": "pixabay_10173249.jpg",
+      "caption": "A dark horse wearing a decorative beaded halter and red patterned fabric against a black background.",
+      "tags": [
+        "horse",
+        "black-horse",
+        "halter",
+        "red-fabric",
+        "studio-shot",
+        "animal-portrait",
+        "elegant",
+        "majestic",
+        "dark-background",
+        "ornate"
+      ],
+      "palette": [
+        "#000000",
+        "#211a18",
+        "#c71e2d"
+      ],
+      "aesthetic": "dramatic studio portrait"
     }
   ]
 }
