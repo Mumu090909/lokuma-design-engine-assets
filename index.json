@@ -2656,28 +2656,6 @@
       "aesthetic": "soft focus romantic"
     },
     {
-      "filename": "pixabay_1850082.jpg",
-      "caption": "Clothes on wooden hangers hang on a rack in a bright, blurred outdoor market.",
-      "tags": [
-        "clothes",
-        "fashion",
-        "retail",
-        "market",
-        "hangers",
-        "wooden",
-        "shallow-depth-of-field",
-        "bright",
-        "shopping",
-        "urban"
-      ],
-      "palette": [
-        "#b38c66",
-        "#333333",
-        "#e0e0e0"
-      ],
-      "aesthetic": "bright lifestyle retail"
-    },
-    {
       "filename": "pixabay_1850804.jpg",
       "caption": "A brightly lit luxury boutique interior showcases various designer handbags, wallets, and shoes on elegant display shelves.",
       "tags": [
@@ -2698,50 +2676,6 @@
         "#e2c180"
       ],
       "aesthetic": "polished commercial"
-    },
-    {
-      "filename": "pixabay_1869731.jpg",
-      "caption": "A layered coffee drink with whipped cream and a biscuit sits on a wooden table in soft light.",
-      "tags": [
-        "coffee",
-        "latte",
-        "whipped-cream",
-        "biscuit",
-        "cafe",
-        "cozy",
-        "soft-light",
-        "indoor",
-        "beverage",
-        "wooden-table"
-      ],
-      "palette": [
-        "#f7f7f7",
-        "#7a523a",
-        "#4a3a4a"
-      ],
-      "aesthetic": "Warm inviting cafe"
-    },
-    {
-      "filename": "pixabay_2325627.jpg",
-      "caption": "A minimalist flat lay of a laptop, notebooks, coffee, and teapot on a bright desk.",
-      "tags": [
-        "workspace",
-        "flat-lay",
-        "minimalist",
-        "laptop",
-        "notebook",
-        "coffee",
-        "teapot",
-        "clean",
-        "bright",
-        "productivity"
-      ],
-      "palette": [
-        "#f7f7f7",
-        "#61b3a9",
-        "#333333"
-      ],
-      "aesthetic": "clean minimalist"
     },
     {
       "filename": "pixabay_3623317.jpg",
@@ -5526,28 +5460,6 @@
       "aesthetic": "modern sterile"
     },
     {
-      "filename": "pixabay_3076954.jpg",
-      "caption": "A smartphone, open notebook, pen, and three potted succulents are on a clean white desk.",
-      "tags": [
-        "smartphone",
-        "notebook",
-        "pen",
-        "succulents",
-        "desk",
-        "minimalist",
-        "clean",
-        "bright",
-        "workspace",
-        "productivity"
-      ],
-      "palette": [
-        "#f0f2f2",
-        "#2a4a34",
-        "#212121"
-      ],
-      "aesthetic": "clean minimalist"
-    },
-    {
       "filename": "pixabay_3191097.jpg",
       "caption": "A tube of toothpaste with blue gel and two colorful toothbrushes sit on a bright white surface.",
       "tags": [
@@ -6470,28 +6382,6 @@
         "#c9b9ae"
       ],
       "aesthetic": "soft minimalist abstract"
-    },
-    {
-      "filename": "ERH3gVgCLv0.jpg",
-      "caption": "A black mascara tube and wand are displayed on a grey surface, with blurred red and white flowers.",
-      "tags": [
-        "mascara",
-        "makeup",
-        "cosmetic",
-        "beauty",
-        "product-shot",
-        "still-life",
-        "black",
-        "grey",
-        "flowers",
-        "soft-light"
-      ],
-      "palette": [
-        "#0a0a0a",
-        "#919191",
-        "#d40000"
-      ],
-      "aesthetic": "clean product"
     },
     {
       "filename": "pixabay_1081331.jpg",
@@ -8230,28 +8120,6 @@
         "#a81a1a"
       ],
       "aesthetic": "minimalist conceptual"
-    },
-    {
-      "filename": "ezIcdj3ZnKg.jpg",
-      "caption": "A smiling man in a white shirt poses for a professional black and white studio portrait.",
-      "tags": [
-        "man",
-        "portrait",
-        "smiling",
-        "professional",
-        "studio",
-        "black-white",
-        "headshot",
-        "monochrome",
-        "corporate",
-        "neutral-background"
-      ],
-      "palette": [
-        "#4a4a4a",
-        "#919191",
-        "#e0e0e0"
-      ],
-      "aesthetic": "professional monochrome studio"
     },
     {
       "filename": "pixabay_1283786.jpg",
