@@ -14028,5 +14028,446 @@
       ],
       "aesthetic": "dramatic studio portrait"
     }
+  ],
+  "barber-salon-grooming": [
+    {
+      "filename": "ai_barber_confident_diverse.jpg",
+      "caption": "A confident Black barber stands in a sunlit modern barbershop, holding scissors and looking at the camera.",
+      "tags": [
+        "barber",
+        "man",
+        "confident",
+        "barbershop",
+        "scissors",
+        "apron",
+        "natural-light",
+        "brick-wall",
+        "professional",
+        "portrait"
+      ],
+      "palette": [
+        "#363636",
+        "#9b5e40",
+        "#f0f0f0"
+      ],
+      "aesthetic": "warm cinematic portrait"
+    },
+    {
+      "filename": "ai_salon_luxe_boutique.jpg",
+      "caption": "A luxurious, brightly lit salon interior with teal styling chairs, ornate gold mirrors, and dark wood shelves.",
+      "tags": [
+        "salon",
+        "luxury",
+        "interior",
+        "elegant",
+        "gold-accents",
+        "marble",
+        "teal-chairs",
+        "bright-lighting",
+        "modern",
+        "boutique"
+      ],
+      "palette": [
+        "#f5f5f5",
+        "#d4a574",
+        "#4a9c9c"
+      ],
+      "aesthetic": "refined contemporary"
+    },
+    {
+      "filename": "ai_barber_modern_portrait.jpg",
+      "caption": "A confident man with a modern haircut stands in a barbershop with soft natural light.",
+      "tags": [
+        "man",
+        "barber",
+        "barbershop",
+        "portrait",
+        "professional",
+        "modern",
+        "haircut",
+        "leather-chair",
+        "natural-light",
+        "confident"
+      ],
+      "palette": [
+        "#1a1a1a",
+        "#8a5a3d",
+        "#a0a0a0"
+      ],
+      "aesthetic": "clean contemporary"
+    },
+    {
+      "filename": "ai_barber_hot_towel_shave.jpg",
+      "caption": "A barber shaves a man's face with a straight razor in a warm, steamy barbershop, illuminated by natural light.",
+      "tags": [
+        "barber",
+        "shave",
+        "straight-razor",
+        "grooming",
+        "barbershop",
+        "steam",
+        "warm",
+        "relaxed",
+        "traditional",
+        "service"
+      ],
+      "palette": [
+        "#d4a574",
+        "#f0f0f0",
+        "#2a221e"
+      ],
+      "aesthetic": "warm cinematic"
+    },
+    {
+      "filename": "ai_barber_action_haircut.jpg",
+      "caption": "A barber gives a client a haircut in a modern barbershop with natural window light.",
+      "tags": [
+        "barber",
+        "haircut",
+        "client",
+        "barbershop",
+        "grooming",
+        "clippers",
+        "modern",
+        "natural-light",
+        "side-profile"
+      ],
+      "palette": [
+        "#a8604a",
+        "#3a4a5c",
+        "#e0dcd7"
+      ],
+      "aesthetic": "clean professional"
+    },
+    {
+      "filename": "ai_barber_vintage_portrait.jpg",
+      "caption": "A serious male barber with a styled beard holds a straight razor in a vintage barbershop.",
+      "tags": [
+        "barber",
+        "man",
+        "beard",
+        "mustache",
+        "straight-razor",
+        "barbershop",
+        "vintage",
+        "professional",
+        "warm-light",
+        "portrait"
+      ],
+      "palette": [
+        "#87a9c7",
+        "#f0f0f0",
+        "#d4a574"
+      ],
+      "aesthetic": "warm vintage portrait"
+    },
+    {
+      "filename": "ai_salon_minimal_interior.jpg",
+      "caption": "A bright, minimalist interior features three wooden vanities with round mirrors and hanging plants.",
+      "tags": [
+        "interior",
+        "minimalist",
+        "salon",
+        "vanity",
+        "mirror",
+        "plant",
+        "wood",
+        "bright",
+        "clean",
+        "modern"
+      ],
+      "palette": [
+        "#f0f0f0",
+        "#d4b28e",
+        "#5c8b5c"
+      ],
+      "aesthetic": "Modern minimalist"
+    },
+    {
+      "filename": "ai_salon_wash_station.jpg",
+      "caption": "Three black salon chairs and sinks in a minimalist salon room, brightly lit by natural skylight.",
+      "tags": [
+        "salon",
+        "wash-station",
+        "minimalist",
+        "modern",
+        "black-chair",
+        "skylight",
+        "natural-light",
+        "clean",
+        "interior",
+        "spacious"
+      ],
+      "palette": [
+        "#d4c9bd",
+        "#1a1a1a",
+        "#e0d9d0"
+      ],
+      "aesthetic": "bright minimalist"
+    },
+    {
+      "filename": "ai_shop_modern_interior.jpg",
+      "caption": "A black barber chair is centered in a bright, minimalist white room with a concrete floor.",
+      "tags": [
+        "barber-chair",
+        "minimalist",
+        "modern",
+        "interior",
+        "white-room",
+        "concrete-floor",
+        "geometric",
+        "bright",
+        "empty",
+        "reflection"
+      ],
+      "palette": [
+        "#f5f5f5",
+        "#b0b0b0",
+        "#1a1a1a"
+      ],
+      "aesthetic": "minimalist modern"
+    },
+    {
+      "filename": "ai_shop_storefront_dusk.jpg",
+      "caption": "A traditional barbershop storefront with a barber pole glows warmly on a cobblestone street at dusk.",
+      "tags": [
+        "barbershop",
+        "storefront",
+        "barber-pole",
+        "street",
+        "cobblestone",
+        "dusk",
+        "warm-light",
+        "historic",
+        "urban",
+        "inviting"
+      ],
+      "palette": [
+        "#d4a574",
+        "#5c6e7a",
+        "#8c4d3b"
+      ],
+      "aesthetic": "warm cinematic"
+    },
+    {
+      "filename": "ai_stylist_asian_portrait.jpg",
+      "caption": "A confident Asian woman in a black apron stands in a bright, modern hair salon.",
+      "tags": [
+        "woman",
+        "asian",
+        "stylist",
+        "salon",
+        "apron",
+        "professional",
+        "modern",
+        "bright",
+        "natural-light",
+        "portrait"
+      ],
+      "palette": [
+        "#f5f5f5",
+        "#1a1a1a",
+        "#d0d0d0"
+      ],
+      "aesthetic": "clean professional"
+    },
+    {
+      "filename": "ai_stylist_blowdry_action.jpg",
+      "caption": "A hair stylist blow-dries a client's long, wavy hair in a bright, modern salon.",
+      "tags": [
+        "hair-stylist",
+        "salon",
+        "blow-dry",
+        "hair",
+        "client",
+        "beauty",
+        "professional",
+        "modern",
+        "bright",
+        "styling"
+      ],
+      "palette": [
+        "#8b5e3e",
+        "#1a1a1a",
+        "#f2f2f2"
+      ],
+      "aesthetic": "clean commercial"
+    },
+    {
+      "filename": "ai_stylist_balayage_color.jpg",
+      "caption": "A hairdresser applies color to a client's hair, partially foiled, in a bright salon setting.",
+      "tags": [
+        "hairdresser",
+        "hair-coloring",
+        "balayage",
+        "highlights",
+        "salon",
+        "beauty",
+        "professional",
+        "foils",
+        "bright",
+        "modern"
+      ],
+      "palette": [
+        "#a07452",
+        "#c0c0c0",
+        "#e0d8cf"
+      ],
+      "aesthetic": "bright commercial"
+    },
+    {
+      "filename": "ai_stylist_brunette_portrait.jpg",
+      "caption": "A smiling female stylist holds open scissors in a bright salon setting.",
+      "tags": [
+        "woman",
+        "stylist",
+        "hairdresser",
+        "scissors",
+        "salon",
+        "smile",
+        "professional",
+        "friendly",
+        "portrait",
+        "beauty"
+      ],
+      "palette": [
+        "#d4a574",
+        "#4a4a4a",
+        "#f0ede5"
+      ],
+      "aesthetic": "warm commercial portrait"
+    },
+    {
+      "filename": "ai_shop_vintage_interior.jpg",
+      "caption": "An empty vintage barber shop interior with wood paneling, brick walls, and warm Edison bulb lighting.",
+      "tags": [
+        "barber-shop",
+        "vintage",
+        "interior",
+        "wood-paneling",
+        "brick-wall",
+        "checkered-floor",
+        "edison-bulbs",
+        "warm-light",
+        "empty",
+        "classic"
+      ],
+      "palette": [
+        "#4a2e20",
+        "#b06040",
+        "#e8e8e8"
+      ],
+      "aesthetic": "Warm vintage classic"
+    },
+    {
+      "filename": "ai_tools_clippers_flatlay.jpg",
+      "caption": "Two hair clippers and four combs are neatly arranged on a white marble surface with strong shadows.",
+      "tags": [
+        "clippers",
+        "combs",
+        "barber",
+        "grooming",
+        "flat-lay",
+        "marble",
+        "shadow",
+        "natural-light",
+        "minimal",
+        "organized"
+      ],
+      "palette": [
+        "#f5f5f5",
+        "#1a1a1a",
+        "#a86b2e"
+      ],
+      "aesthetic": "high-contrast product"
+    },
+    {
+      "filename": "ai_tools_shears_razor.jpg",
+      "caption": "Barber's thinning shears, straight razor, and leather strop on a dark wooden surface with harsh light.",
+      "tags": [
+        "barber",
+        "shears",
+        "razor",
+        "strop",
+        "wood",
+        "tools",
+        "grooming",
+        "shadow",
+        "still-life",
+        "craft"
+      ],
+      "palette": [
+        "#4a2f1c",
+        "#b0b0b0",
+        "#2e1d11"
+      ],
+      "aesthetic": "high contrast still-life"
+    },
+    {
+      "filename": "ai_tools_shaving_foam.jpg",
+      "caption": "Gloved hands hold a shaving brush with foam in a blue bowl under warm window light.",
+      "tags": [
+        "shaving-brush",
+        "shaving-foam",
+        "blue-bowl",
+        "hands",
+        "gloves",
+        "grooming",
+        "warm-light",
+        "soft-light",
+        "close-up",
+        "personal-care"
+      ],
+      "palette": [
+        "#ffffff",
+        "#34679a",
+        "#d4a574"
+      ],
+      "aesthetic": "warm soft focus"
+    },
+    {
+      "filename": "ai_tools_towels_tonic.jpg",
+      "caption": "Three glass bottles of amber liquid and white towels are on a wooden surface, bathed in soft natural light.",
+      "tags": [
+        "bottles",
+        "towels",
+        "amber-liquid",
+        "natural-light",
+        "warm",
+        "spa",
+        "wellness",
+        "wood",
+        "still-life",
+        "cozy"
+      ],
+      "palette": [
+        "#d4a574",
+        "#f5f5f5",
+        "#a0522d"
+      ],
+      "aesthetic": "soft warm light"
+    },
+    {
+      "filename": "ai_shop_industrial_loft.jpg",
+      "caption": "An empty industrial barber shop with two black chairs, a neon \"BARBER\" sign, and exposed brick.",
+      "tags": [
+        "barber-shop",
+        "industrial",
+        "loft",
+        "neon-sign",
+        "brick-wall",
+        "concrete-floor",
+        "empty",
+        "modern",
+        "urban",
+        "interior"
+      ],
+      "palette": [
+        "#a05a41",
+        "#b5b5b5",
+        "#00e0ff"
+      ],
+      "aesthetic": "Industrial chic"
+    }
   ]
 }
